@@ -1,0 +1,21 @@
+E-Commerce Price Comparison System
+Overview
+The E-Commerce Price Comparison System is a web application developed using Spring Boot and MongoDB. This project allows users to compare prices of products across different e-commerce platforms, helping them make informed purchasing decisions.
+
+Features
+User Authentication: Secure user registration and login.
+Product Search: Search for products by name, category, or brand.
+Price Comparison: View and compare prices from various e-commerce websites.
+Product Details: Detailed product information including specifications, reviews, and ratings.
+Favorites: Save favorite products for quick access.
+Notifications: Get notified about price drops for tracked products.
+Technologies Used
+Backend: Spring Boot, Java
+Database: MongoDB
+Frontend: HTML, CSS, JavaScript, Thymeleaf
+APIs: Integration with various e-commerce APIs for price data
+Installation
+Prerequisites
+Java Development Kit (JDK) 11 or higher
+Maven
+MongoDB
